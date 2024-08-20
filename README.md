@@ -1,2 +1,3 @@
-# legosw-tsc-saves
-Documentation of save file format of LEGO Star Wars: The Complete Sage
+# LEGO Star Wars: The Complete Saga save file documentation
+
+Documentation of save file format of LEGO Star Wars: The Complete Saga
