@@ -2,6 +2,14 @@
 
 Documentation of save file format of LEGO Star Wars: The Complete Saga.
 
+## How to Use
+
+Launch the game and load your save file.
+
+Open up the file in Cheat Engine and attach to LEGOStarWarsSaga.exe. If you're playing the Steam version of the game, you're done!
+
+If you're playing the GOG version of the game, right-click "Stud Count" in the table and choose "Recalculate new addresses" in the menu. In the "Change to address" tab, type in `0086e4fc` and click OK. (this might also work for other versions of the game, but I haven't tested them.) This moves all the table entries to their proper memory position.
+
 ## Credit and License
 
 The Cheat Engine table was not made by me - it was built by Polly and archived at https://github.com/PollyThePancake/LSW-SE/blob/main/Research/LSWTCS_Save_Data.CT under the MIT License.
