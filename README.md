@@ -4,7 +4,9 @@ Documentation of save file format of LEGO Star Wars: The Complete Saga.
 
 ## How to Use
 
-Download the [./LSWTCS_Save_Data.CT](LSWTCS_Save_Data.CT) file.
+Download the [LSWTCS_Save_Data.CT](./LSWTCS_Save_Data.CT) file. You can use the "Download raw file" button:
+
+![Screenshot of "Download raw file" button](./download.png)
 
 Launch the game and load your save game.
 
